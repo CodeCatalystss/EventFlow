@@ -1,0 +1,9 @@
+# EventFlow — Your Campus Events Hub
+# Last Updated: 2026-04-17
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://eventflow.app/sitemap.xml
